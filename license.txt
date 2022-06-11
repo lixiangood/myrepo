@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This's my git repository
-=======
 This is my git repository。。。。
->>>>>>> 29431e1 (fix bug 102)
